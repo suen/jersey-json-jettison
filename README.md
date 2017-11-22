@@ -1,4 +1,4 @@
-#jersey-json-jettison
+# jersey-json-jettison
 
 To launch the test run : 
 
